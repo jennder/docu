@@ -15,3 +15,15 @@ code {
 img {
   max-width: 100%;
 }
+
+:root {
+  --coral: #d4420b; 
+  --bg-pink: #fff2ed;
+  --navy: rgb(2, 78, 114);
+  --highlight-coral: #F5A38F;
+}
+
+@font-face {
+  font-family: Tenor;
+  src: url('styles/fonts/TenorSans-Regular.ttf');
+}
