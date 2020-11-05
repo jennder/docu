@@ -1,7 +1,17 @@
 .section-title {
-    font-family: Tenor;
-    color: var(--coral);
+    font-family: Josefin;
+    color: var(--header);
     text-align: center;
     font-size: 24px;
     padding: 50px;
+}
+
+.white {
+    color: var(--white);
+}
+
+.description {
+    font-family: Josefin;
+    font-weight: light;
+    padding: 10px;
 }

@@ -17,7 +17,8 @@ img {
 }
 
 :root {
-  --coral: #d4420b; 
+  --header: #141963; 
+  --white: #ffffff; 
   --bg-pink: #fff2ed;
   --navy: rgb(2, 78, 114);
   --highlight-coral: #F5A38F;
@@ -26,4 +27,9 @@ img {
 @font-face {
   font-family: Tenor;
   src: url('styles/fonts/TenorSans-Regular.ttf');
+}
+
+@font-face {
+  font-family: Josefin;
+  src: url('styles/fonts/JosefinSans-Regular.ttf')
 }
